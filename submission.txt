@@ -1,0 +1,3 @@
+Website: https://website-q3km.netlify.app/
+Algorithm: I used stable merge sort to reorder three personal portfolio notes by featured order or Korean title. Use the Featured and Title A–Z buttons in the 탐구 노트 section to try both orders.
+Performance: Merge sort runs in O(n log n) time and uses O(n) additional space. This is asymptotically faster than bubble sort's O(n^2) time.
