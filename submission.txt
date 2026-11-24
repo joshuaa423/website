@@ -1,3 +1,3 @@
-Website: https://website-q3km.netlify.app/
-Algorithm: I used stable merge sort to reorder three personal portfolio notes by featured order or Korean title. Use the Featured and Title A–Z buttons in the 탐구 노트 section to try both orders.
-Performance: Merge sort runs in O(n log n) time and uses O(n) additional space. This is asymptotically faster than bubble sort's O(n^2) time.
+웹사이트: https://website-q3km.netlify.app/
+알고리즘: 안정적인 병합 정렬(merge sort)을 사용해 탐구 노트를 기본 순서 또는 제목순으로 정렬했습니다. 탐구 노트의 Featured와 Title A–Z 버튼으로 두 정렬 방식을 확인할 수 있습니다.
+성능: 병합 정렬의 시간복잡도는 O(n log n), 추가 공간복잡도는 O(n)입니다. 시간복잡도 O(n²)인 버블 정렬보다 입력 크기가 커질수록 효율적입니다.
